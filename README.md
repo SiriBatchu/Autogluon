@@ -1,4 +1,4 @@
-# CMPE-255_Autogluon
+# Autogluon
 AutoGluon is an open-source library designed to simplify the process of building and deploying machine learning models. It’s particularly user-friendly and supports various tasks, including:
 
 Tabular Data: For structured data, AutoGluon can automatically handle feature engineering, model selection, and hyperparameter tuning.
