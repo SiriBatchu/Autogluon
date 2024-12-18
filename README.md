@@ -10,3 +10,5 @@ Text Classification: AutoGluon can also work with natural language data for clas
 Object Detection: It offers capabilities for detecting objects in images.
 
 One of its standout features is its ability to enable users, even those with limited machine learning experience, to leverage advanced techniques effectively. It uses a combination of popular machine learning frameworks and provides a high-level API to streamline the model-building process.
+
+Youtube : https://youtu.be/ovDDiHxzi5E
